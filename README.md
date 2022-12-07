@@ -7,8 +7,8 @@
 
 ./install_terminal.sh
 
-./install_profile.sh```
-
+./install_profile.sh
+```
 
 First run all commands with sudo for normal terminal profile when done 
 
