@@ -10,6 +10,8 @@ Install commands
 ./install_profile.sh
 ```
 
-First run all commands with sudo for normal terminal profile when done 
+First run all commands with sudo for normal terminal profile when done
+
+Log out and log in again
 
 Open root terminal and run all the commands again for root terminal
