@@ -1,8 +1,8 @@
 # Ubuntu-Terminal-Theme
 
+Install commands 
 
-```install commands 
-
+```
 ./install_powerline.sh
 
 ./install_terminal.sh
